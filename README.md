@@ -5,4 +5,4 @@
 
 🦜 Requires you to be able to run Java code from source.
 
-🐱 If you would prefer to play in your browser, see my JavaScript version from February 2019: https://www.duncanritchie.co.uk/jsChallenges/cyberpet/cyberpet.html
+🐱 If you would prefer to play in your browser, see my [JavaScript version](https://www.duncanritchie.co.uk/jsChallenges/cyberpet/cyberpet.html) from February 2019 (or [the repo for that](https://github.com/DuncanRitchie/jsChallenges)).
